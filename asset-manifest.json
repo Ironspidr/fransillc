@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fransillc/static/css/main.8c53a4b3.css",
+    "main.js": "/fransillc/static/js/main.9737e0f2.js",
+    "static/media/about.jpg": "/fransillc/static/media/about.6537727feeb2047f465e.jpg",
+    "static/media/abstract2.jpg": "/fransillc/static/media/abstract2.b55feb78685b2d7e69b9.jpg",
+    "static/media/abstract.jpg": "/fransillc/static/media/abstract.a034c1b33f423c538a7d.jpg",
+    "static/media/logo-bg.png": "/fransillc/static/media/logo-bg.204e2341f8465d276fed.png",
+    "index.html": "/fransillc/index.html",
+    "main.8c53a4b3.css.map": "/fransillc/static/css/main.8c53a4b3.css.map",
+    "main.9737e0f2.js.map": "/fransillc/static/js/main.9737e0f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c53a4b3.css",
+    "static/js/main.9737e0f2.js"
+  ]
+}
