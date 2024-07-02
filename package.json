@@ -2,7 +2,7 @@
   "name": "fransi-llc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ironspidr.github.io/fransillc/",
+  "homepage": "https://nj-web.com/fransillc/",
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "@gsap/react": "^2.1.1",
